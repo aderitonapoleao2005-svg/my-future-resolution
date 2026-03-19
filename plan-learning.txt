@@ -1,0 +1,5 @@
+learn basic frontend
+-javascript
+-html/css
+-git/github
+-figma
