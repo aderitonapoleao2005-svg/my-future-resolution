@@ -1,5 +1,9 @@
 learn basic frontend
 -javascript
+  *array
+  *loop
+  *function
+  *conditional
 -html/css
 -git/github
 -figma
